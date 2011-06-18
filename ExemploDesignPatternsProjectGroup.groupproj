@@ -1,0 +1,48 @@
+﻿	<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+		<PropertyGroup>
+			<ProjectGuid>{9C7EC528-3881-4E1F-997D-A3B8D195BB7D}</ProjectGuid>
+		</PropertyGroup>
+		<ItemGroup>
+			<Projects Include="src\ExemplosDesignPatterns.dproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="test\ExemplosDesignPatternsTests.dproj">
+				<Dependencies/>
+			</Projects>
+		</ItemGroup>
+		<ProjectExtensions>
+			<Borland.Personality>Default.Personality.12</Borland.Personality>
+			<Borland.ProjectType/>
+			<BorlandProject>
+				<Default.Personality/>
+			</BorlandProject>
+		</ProjectExtensions>
+		<Target Name="ExemplosDesignPatterns">
+			<MSBuild Projects="src\ExemplosDesignPatterns.dproj"/>
+		</Target>
+		<Target Name="ExemplosDesignPatterns:Clean">
+			<MSBuild Targets="Clean" Projects="src\ExemplosDesignPatterns.dproj"/>
+		</Target>
+		<Target Name="ExemplosDesignPatterns:Make">
+			<MSBuild Targets="Make" Projects="src\ExemplosDesignPatterns.dproj"/>
+		</Target>
+		<Target Name="ExemplosDesignPatternsTests">
+			<MSBuild Projects="test\ExemplosDesignPatternsTests.dproj"/>
+		</Target>
+		<Target Name="ExemplosDesignPatternsTests:Clean">
+			<MSBuild Targets="Clean" Projects="test\ExemplosDesignPatternsTests.dproj"/>
+		</Target>
+		<Target Name="ExemplosDesignPatternsTests:Make">
+			<MSBuild Targets="Make" Projects="test\ExemplosDesignPatternsTests.dproj"/>
+		</Target>
+		<Target Name="Build">
+			<CallTarget Targets="ExemplosDesignPatterns;ExemplosDesignPatternsTests"/>
+		</Target>
+		<Target Name="Clean">
+			<CallTarget Targets="ExemplosDesignPatterns:Clean;ExemplosDesignPatternsTests:Clean"/>
+		</Target>
+		<Target Name="Make">
+			<CallTarget Targets="ExemplosDesignPatterns:Make;ExemplosDesignPatternsTests:Make"/>
+		</Target>
+		<Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+	</Project>
