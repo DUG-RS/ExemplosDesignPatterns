@@ -8,13 +8,17 @@ Samuel "Muka" David - http://twitter.com/mukadavid
 
 Padrões Explorados:
 [x] factory
-[ ] builder
-[ ] command
 [x] facade
 [x] template method
-[ ] proxy
 [x] adapter
+
+Ficaram pendentes:
+[ ] proxy
+[ ] builder
+[ ] command
 
 
 Mais sobre este evento:
 http://dug-rs.blogspot.com/2011/06/padroes-de-projetos.html
+
+
