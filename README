@@ -1,13 +1,19 @@
 ﻿ExemplosDesignPatterns
 
+Quem apresentou?
+
+Daniel Wildt - http://twitter.com/dwildt
+
+Samuel "Muka" David - http://twitter.com/mukadavid
+
 Padrões Explorados:
-- factory
-- builder
-- command
-- facade
-- template method
-- proxy
-- adapter
+[ ] factory
+[ ] builder
+[ ] command
+[ ] facade
+[ ] template method
+[ ] proxy
+[ ] adapter
 
 
 Mais sobre este evento:
