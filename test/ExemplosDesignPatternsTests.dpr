@@ -21,7 +21,10 @@ uses
   TextTestRunner,
   UTestCalculadora in 'UTestCalculadora.pas',
   UFrmMain in '..\src\UFrmMain.pas',
-  UCalculadora in '..\src\UCalculadora.pas';
+  UCalculadora in '..\src\UCalculadora.pas',
+  UTestDUGORM in 'UTestDUGORM.pas',
+  UCliente in '..\src\UCliente.pas',
+  UBase in '..\src\UBase.pas';
 
 {$R *.RES}
 

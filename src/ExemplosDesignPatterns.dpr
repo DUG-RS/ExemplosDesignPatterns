@@ -3,7 +3,8 @@ program ExemplosDesignPatterns;
 uses
   Forms,
   UFrmMain in 'UFrmMain.pas' {FrmMain},
-  UCalculadora in 'UCalculadora.pas';
+  UCalculadora in 'UCalculadora.pas',
+  UCliente in 'UCliente.pas';
 
 {$R *.res}
 

@@ -49,6 +49,9 @@
 			<DCCReference Include="UTestCalculadora.pas"/>
 			<DCCReference Include="..\src\UFrmMain.pas"/>
 			<DCCReference Include="..\src\UCalculadora.pas"/>
+			<DCCReference Include="UTestDUGORM.pas"/>
+			<DCCReference Include="..\src\UCliente.pas"/>
+			<DCCReference Include="..\src\UBase.pas"/>
 			<BuildConfiguration Include="Base">
 				<Key>Base</Key>
 			</BuildConfiguration>

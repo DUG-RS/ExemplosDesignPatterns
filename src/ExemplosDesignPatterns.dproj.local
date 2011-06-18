@@ -5,5 +5,6 @@
     <Transaction>2011/06/18 07:55:40.910.dfm,C:\Users\dwildt\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\dwildt\Code\ExemplosDesignPatterns\UFrmMain.dfm</Transaction>
     <Transaction>2011/06/18 07:55:59.448.dproj,C:\Users\dwildt\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\dwildt\Code\ExemplosDesignPatterns\ExemplosDesignPatterns.dproj</Transaction>
     <Transaction>2011/06/18 08:13:42.512.pas,C:\Users\dwildt\Code\ExemplosDesignPatterns\src\Unit1.pas=C:\Users\dwildt\Code\ExemplosDesignPatterns\src\UCalculadora.pas</Transaction>
+    <Transaction>2011/06/18 09:56:23.424.pas,C:\Users\dwildt\Code\ExemplosDesignPatterns\src\Unit1.pas=C:\Users\dwildt\Code\ExemplosDesignPatterns\src\UCliente.pas</Transaction>
   </Transactions>
 </BorlandProject>

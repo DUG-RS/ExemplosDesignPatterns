@@ -11,7 +11,7 @@ Padrões Explorados:
 [ ] builder
 [ ] command
 [ ] facade
-[ ] template method
+[x] template method
 [ ] proxy
 [ ] adapter
 
