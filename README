@@ -7,13 +7,13 @@ Daniel Wildt - http://twitter.com/dwildt
 Samuel "Muka" David - http://twitter.com/mukadavid
 
 Padrões Explorados:
-[ ] factory
+[x] factory
 [ ] builder
 [ ] command
-[ ] facade
+[x] facade
 [x] template method
 [ ] proxy
-[ ] adapter
+[x] adapter
 
 
 Mais sobre este evento:

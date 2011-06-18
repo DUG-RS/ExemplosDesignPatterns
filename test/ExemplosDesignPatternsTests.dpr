@@ -24,7 +24,12 @@ uses
   UCalculadora in '..\src\UCalculadora.pas',
   UTestDUGORM in 'UTestDUGORM.pas',
   UCliente in '..\src\UCliente.pas',
-  UBase in '..\src\UBase.pas';
+  UBase in '..\src\UBase.pas',
+  UTestImpressoraFiscal in 'UTestImpressoraFiscal.pas',
+  UVendaProduto in '..\src\UVendaProduto.pas',
+  UVendaProdutoMuka in '..\src\UVendaProdutoMuka.pas',
+  UVendaProdutoBase in '..\src\UVendaProdutoBase.pas',
+  UFabricaVendaProduto in '..\src\UFabricaVendaProduto.pas';
 
 {$R *.RES}
 

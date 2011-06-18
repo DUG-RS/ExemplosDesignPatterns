@@ -4,7 +4,9 @@ uses
   Forms,
   UFrmMain in 'UFrmMain.pas' {FrmMain},
   UCalculadora in 'UCalculadora.pas',
-  UCliente in 'UCliente.pas';
+  UCliente in 'UCliente.pas',
+  UValidacoes in 'UValidacoes.pas',
+  UVendaProduto in 'UVendaProduto.pas';
 
 {$R *.res}
 

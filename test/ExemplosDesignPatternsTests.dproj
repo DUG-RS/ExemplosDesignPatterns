@@ -52,6 +52,11 @@
 			<DCCReference Include="UTestDUGORM.pas"/>
 			<DCCReference Include="..\src\UCliente.pas"/>
 			<DCCReference Include="..\src\UBase.pas"/>
+			<DCCReference Include="UTestImpressoraFiscal.pas"/>
+			<DCCReference Include="..\src\UVendaProduto.pas"/>
+			<DCCReference Include="..\src\UVendaProdutoMuka.pas"/>
+			<DCCReference Include="..\src\UVendaProdutoBase.pas"/>
+			<DCCReference Include="..\src\UFabricaVendaProduto.pas"/>
 			<BuildConfiguration Include="Base">
 				<Key>Base</Key>
 			</BuildConfiguration>

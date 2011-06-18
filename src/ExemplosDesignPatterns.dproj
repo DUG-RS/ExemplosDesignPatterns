@@ -48,6 +48,8 @@
 			</DCCReference>
 			<DCCReference Include="UCalculadora.pas"/>
 			<DCCReference Include="UCliente.pas"/>
+			<DCCReference Include="UValidacoes.pas"/>
+			<DCCReference Include="UVendaProduto.pas"/>
 			<BuildConfiguration Include="Base">
 				<Key>Base</Key>
 			</BuildConfiguration>

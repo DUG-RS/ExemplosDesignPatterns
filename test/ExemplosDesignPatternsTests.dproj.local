@@ -4,5 +4,8 @@
     <Transaction>2011/06/18 08:16:54.461.pas,C:\Users\dwildt\Code\ExemplosDesignPatterns\test\TestCalculadora.pas=C:\Users\dwildt\Code\ExemplosDesignPatterns\test\UTestCalculadora.pas</Transaction>
     <Transaction>2011/06/18 09:55:11.227.pas,C:\Users\dwildt\Code\ExemplosDesignPatterns\test\TestDUGORM.pas=C:\Users\dwildt\Code\ExemplosDesignPatterns\test\UTestDUGORM.pas</Transaction>
     <Transaction>2011/06/18 10:11:38.008.pas,C:\Users\dwildt\Code\ExemplosDesignPatterns\test\Unit1.pas=C:\Users\dwildt\Code\ExemplosDesignPatterns\src\UBase.pas</Transaction>
+    <Transaction>2011/06/18 11:15:49.245.pas,C:\Users\dwildt\Code\ExemplosDesignPatterns\test\Unit1.pas=C:\Users\dwildt\Code\ExemplosDesignPatterns\src\UVendaProdutoMuka.pas</Transaction>
+    <Transaction>2011/06/18 11:21:54.503.pas,C:\Users\dwildt\Code\ExemplosDesignPatterns\test\Unit1.pas=C:\Users\dwildt\Code\ExemplosDesignPatterns\src\UVendaProdutoBase.pas</Transaction>
+    <Transaction>2011/06/18 11:35:21.386.pas,C:\Users\dwildt\Code\ExemplosDesignPatterns\test\Unit1.pas=C:\Users\dwildt\Code\ExemplosDesignPatterns\src\UFabricaVendaProduto.pas</Transaction>
   </Transactions>
 </BorlandProject>
