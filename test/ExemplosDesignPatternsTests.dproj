@@ -46,6 +46,9 @@
 			<DelphiCompile Include="ExemplosDesignPatternsTests.dpr">
 				<MainSource>MainSource</MainSource>
 			</DelphiCompile>
+			<DCCReference Include="UTestCalculadora.pas"/>
+			<DCCReference Include="..\src\UFrmMain.pas"/>
+			<DCCReference Include="..\src\UCalculadora.pas"/>
 			<BuildConfiguration Include="Base">
 				<Key>Base</Key>
 			</BuildConfiguration>

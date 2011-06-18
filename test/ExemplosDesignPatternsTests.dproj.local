@@ -1,4 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions/>
+  <Transactions>
+    <Transaction>2011/06/18 08:16:54.461.pas,C:\Users\dwildt\Code\ExemplosDesignPatterns\test\TestCalculadora.pas=C:\Users\dwildt\Code\ExemplosDesignPatterns\test\UTestCalculadora.pas</Transaction>
+  </Transactions>
 </BorlandProject>

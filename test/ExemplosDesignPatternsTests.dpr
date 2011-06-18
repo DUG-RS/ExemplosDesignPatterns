@@ -18,7 +18,10 @@ uses
   Forms,
   TestFramework,
   GUITestRunner,
-  TextTestRunner;
+  TextTestRunner,
+  UTestCalculadora in 'UTestCalculadora.pas',
+  UFrmMain in '..\src\UFrmMain.pas',
+  UCalculadora in '..\src\UCalculadora.pas';
 
 {$R *.RES}
 

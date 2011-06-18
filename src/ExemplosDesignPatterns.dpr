@@ -2,7 +2,8 @@ program ExemplosDesignPatterns;
 
 uses
   Forms,
-  UFrmMain in 'UFrmMain.pas' {FrmMain};
+  UFrmMain in 'UFrmMain.pas' {FrmMain},
+  UCalculadora in 'UCalculadora.pas';
 
 {$R *.res}
 
